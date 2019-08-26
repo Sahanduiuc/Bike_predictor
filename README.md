@@ -1,5 +1,7 @@
 # Bike Rental Count Model
 
+#### Contributors: Marco Santos and Paul Yun
+
 ## Goal
 Predict bike rental count on any given day (bike count is the dependent variable)
 
